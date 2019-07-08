@@ -1,6 +1,6 @@
 # Product Management System
 
-An application written in C++ that can add, delete, and sort a product list.
+An application written in C++ that can add, delete, sort, and search a product list.
 
 ## Prerequisites
 Install the Minimalist GNU for Windows
