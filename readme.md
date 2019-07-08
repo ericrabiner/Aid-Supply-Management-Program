@@ -1,6 +1,6 @@
-# Contact Management System
+# Product Management System
 
-An application written in C that can add, update, delete, search, and sort a contact list.
+An application written in C++ that can add, delete, and sort a product list.
 
 ## Prerequisites
 Install the Minimalist GNU for Windows
